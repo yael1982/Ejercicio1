@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(231, 231, 40);
+    border: 5px solid black;
+    height: fit-content;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+img{
+   
+    width: 100%;
+}
+
+p{
+    margin-top: 30px;
+}
+
+.click{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(60, 233, 83);
+    border:3px solid black;
+    margin: 75px;
+    padding: 7px;
+}
